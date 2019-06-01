@@ -1,0 +1,20 @@
+body {
+    background-image: url(../images/paper_3.png)
+}
+
+main {
+    width: 75%;
+    align-content: center;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    background-color: white;
+}
+
+.image1 {
+    transform: rotate(90deg);
+    float: left;
+    margin: 20px;
+    clear: both;
+    margin-bottom: 40px;
+}
